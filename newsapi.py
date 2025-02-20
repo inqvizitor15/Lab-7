@@ -3,7 +3,7 @@ from pprint import pprint
 import json
 
 API_KEY = input('Введите ваш API-ключ, который можно посмотреть в личном кабинете News Api: ')
-# API_KEY = '199f68cebfc949cf89cf9166eb0818ff'
+
 
 url_main = 'https://newsapi.org/v2/top-headlines?'
 
