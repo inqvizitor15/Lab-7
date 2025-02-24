@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daacd277-ad46-4af3-bad4-9e9590897d40" name="Changes" comment="up1">
-      <change beforePath="$PROJECT_DIR$/.idea/Lab-7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab-7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NASA_API.py" beforeDir="false" afterPath="$PROJECT_DIR$/NASA_API.py" afterDir="false" />
-    </list>
+    <list default="true" id="daacd277-ad46-4af3-bad4-9e9590897d40" name="Changes" comment="up1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.NASA_API.executor": "Run",
+    "Python.lr5.executor": "Run",
     "Python.newsapi.executor": "Run",
     "Python.tst.executor": "Run",
     "Python.weather_mine.executor": "Run",
@@ -58,7 +54,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.NASA_API">
+  <component name="RunManager" selected="Python.lr5">
     <configuration name="NASA_API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lab-7" />
       <option name="ENV_FILES" value="" />
@@ -73,6 +69,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NASA_API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lr5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab-7" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lr5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,10 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.NASA_API" />
-        <item itemvalue="Python.tst" />
+        <item itemvalue="Python.lr5" />
         <item itemvalue="Python.newsapi" />
+        <item itemvalue="Python.tst" />
         <item itemvalue="Python.weather_mine" />
+        <item itemvalue="Python.NASA_API" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740081304354</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="up1">
+      <option name="closed" value="true" />
+      <created>1740082699676</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740082699676</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
