@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daacd277-ad46-4af3-bad4-9e9590897d40" name="Changes" comment="up1" />
+    <list default="true" id="daacd277-ad46-4af3-bad4-9e9590897d40" name="Changes" comment="up1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsapi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,11 +53,11 @@
     "Python.weather_mine.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Python_old/Python1/Lab-3_Titanfall-2",
+    "last_opened_file_path": "D:/Pyhton/Lab-7",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lr5">
+  <component name="RunManager" selected="Python.newsapi">
     <configuration name="NASA_API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lab-7" />
       <option name="ENV_FILES" value="" />
@@ -167,8 +170,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lr5" />
         <item itemvalue="Python.newsapi" />
+        <item itemvalue="Python.lr5" />
         <item itemvalue="Python.tst" />
         <item itemvalue="Python.weather_mine" />
         <item itemvalue="Python.NASA_API" />
@@ -247,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740082699676</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="up1">
+      <option name="closed" value="true" />
+      <created>1740389266638</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740389266638</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
